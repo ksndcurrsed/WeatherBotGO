@@ -27,8 +27,7 @@ go mod tidy
 ```
 
 ### 3. Создайте .env файл в корне проекта и добавьте TELEGRAM_TOKEN и OPENWEATHER_API_KEY
-```bash
-.env
+```.env
 TELEGRAM_TOKEN = token
 OPENWEATHER_API_KEY = api_key
 ```
