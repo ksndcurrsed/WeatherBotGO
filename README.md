@@ -19,16 +19,19 @@
 ```bash
 git clone https://github.com/ksndcurrsed/WeatherBotGO.git
 cd WeatherBotGO
+```
 
 ### 2. Установить зависимости
 ```bash
 go mod tidy
+```
 
 ### 3. Создайте .env файл в корне проекта и добавьте TELEGRAM_TOKEN и OPENWEATHER_API_KEY
 
 ### 4. Запускайте через
 ```bash
 go run main.go
+```
 
 # Пример использования
 Сообщение:
